@@ -13,3 +13,4 @@
 /node_modules/
 /.yarn/cache/
 *.js
+/beneficiary/index.d.ts
