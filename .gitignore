@@ -10,3 +10,6 @@
 !.yarn/cache
 #.pnp.*
 /.idea/
+/node_modules/
+/.yarn/cache/
+*.js
