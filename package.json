@@ -1,0 +1,8 @@
+{
+  "private": true,
+  "workspaces": [
+    "kalcommon",
+    "beneficiary"
+  ],
+  "packageManager": "yarn@3.2.0"
+}

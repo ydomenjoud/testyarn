@@ -1,0 +1,12 @@
+{
+  "name": "beneficiary",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "packageManager": "yarn@3.2.0",
+  "dependencies": {
+    "kalcommon": "workspace:^",
+    "lodash": "^4.17.21",
+    "typescript": "^4.6.3"
+  }
+}

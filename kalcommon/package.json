@@ -1,0 +1,12 @@
+{
+  "name": "kalcommon",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "bunyan": "^1.8.15"
+  },
+  "devDependencies": {
+    "@types/bunyan": "^1.8.8"
+  }
+}
